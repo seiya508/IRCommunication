@@ -1,5 +1,5 @@
 # IRCommunication
-This controls TV and air conditioner using IR with Alexa.
+This controls TV and air conditioner using IR with Alexa.  
 ![IR](https://user-images.githubusercontent.com/82433238/153733439-981d7295-cd39-4eff-9a98-8c9753436b7a.jpg)
 
 
